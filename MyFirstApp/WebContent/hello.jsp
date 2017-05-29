@@ -11,7 +11,7 @@
 	<nav>
 		<li><a href="estaticos/avisolegal.html">Aviso legal</a></li>
 	</nav>
-	<h1>Mi primera App</h1>
+	<h1>Mi primera App modif</h1>
 
 	<section>
 		<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam sapiente non provident quia, quasi libero, optio pariatur nulla. Porro consectetur molestiae dignissimos commodi architecto adipisci soluta aperiam aliquid a beatae.</div>
