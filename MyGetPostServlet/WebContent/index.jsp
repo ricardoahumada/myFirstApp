@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Documento</title>
 </head>
 <body>
 	<h1>Formulario de login</h1>
