@@ -6,6 +6,7 @@
 				<a href="menu1.html">menu 1</a>
 				<a href="menu2.html">menu 2</a>
 				<a href="menu3.html">menu 3</a>
+				<a href="menu4.html">menu 4</a>
 			</li>
 		</ul>
 	</nav>
